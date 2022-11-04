@@ -5,4 +5,3 @@ Add a markdown code snippet on line 2
 Fix Rate Test Data
 ------------------
 Add a markdown comment on line 7
-Add a markdown code snippet on line 8
