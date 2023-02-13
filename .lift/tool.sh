@@ -5,6 +5,7 @@ cmd=$3
 
 function version() {
     echo 1
+    echo 1
 }
 
 function applicable() {
