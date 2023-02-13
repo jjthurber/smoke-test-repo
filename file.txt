@@ -1,2 +1,6 @@
 Example file
-Test
+
+Add a markdown comment here
+Add a markdown code snippet here
+Add a markdown code snippet here 24
+
