@@ -14,4 +14,6 @@ fun main(args: Array<String>) {
 	throw RuntimeException("Introducing another for the squirrel")
 	
 	throw RuntimeException("Introducing another for the squl")
+	
+	throw RuntimeException("Introducing another for the squl")
 }
