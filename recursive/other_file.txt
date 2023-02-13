@@ -1,2 +1,9 @@
 Add a markdown comment on line 1
 Add a markdown code snippet on line 2
+Add a markdown code snippet on line 3
+
+
+
+Fix Rate Test Data
+------------------
+Add a markdown comment on line 7
